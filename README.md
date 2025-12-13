@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 2nd year computer engineer student.<br>intermediate in full stack developement.<br>🔒 cybersecurity driven.<br>
+💻 2nd year computer engineer student.<br>intermediate in full stack developement.<br>🔒 cybersecurity driven.<br> 📍Algeria driven.<br>
 
 
 ## 🌐 Socials:
