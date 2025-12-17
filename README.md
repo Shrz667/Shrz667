@@ -1,5 +1,5 @@
-# 💫 About Me:
-💻 2nd year computer engineer student.<br>intermediate in full stack developement.<br>🔒 cybersecurity driven.<br> 📍based in Algeria.<br>
+# 💫 Hello there,i'm Shyraz Gueddouche
+💻I am a 2nd year computer engineering student.<br>intermediate in full stack developement.<br>🔒 cybersecurity driven.<br> 📍based in Algeria.<br>
 
 
 ## 🌐 Socials:
