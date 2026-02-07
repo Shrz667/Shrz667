@@ -1,4 +1,4 @@
-💫 Hello,i'm Shyraz 
+#💫 Hello,i'm Shyraz 
 
 💻 2nd year computer engineering student.<br> 🕹️intermediate in full stack developement.<br>🔒 cybersecurity driven.<br> 📍based in Algeria.<br>
 
